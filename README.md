@@ -4,6 +4,8 @@ ADD USER PAGE
 ![WhatsApp Image 2021-06-25 at 6 52 25 PM](https://user-images.githubusercontent.com/55580012/123431128-8c6bc700-d5e6-11eb-9f54-72e3b9630da9.jpeg)
 VIEW USER PAGE
 ![WhatsApp Image 2021-06-25 at 6 54 12 PM](https://user-images.githubusercontent.com/55580012/123431347-c8069100-d5e6-11eb-9daa-73f80600c33f.jpeg)
+EDIT USER PAGE
+![WhatsApp Image 2021-06-25 at 6 56 21 PM](https://user-images.githubusercontent.com/55580012/123431603-1025b380-d5e7-11eb-81a4-5eab7442774e.jpeg)
 
 # Getting Started with Create React App
 
